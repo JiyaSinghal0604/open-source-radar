@@ -2,9 +2,11 @@
 
 Un buen primer issue es pequeño, está claramente descrito, se puede reproducir y no está siendo trabajado por otra persona. Este último punto es donde la mayoría de los principiantes pierde tiempo.
 
+[English version](../04-find-an-issue.md)
+
 ## Dónde buscar
 
-* **El [índice de issues](../issues/README.md) de este repositorio** y el [sitio web](https://tanbirramim.github.io/open-source-radar/): issues abiertos etiquetados para principiantes, ya filtrados para excluir aquellos que tienen una persona asignada o un pull request abierto vinculado.
+* **El [índice de issues](../../issues/README.md) de este repositorio** y el [sitio web](https://tanbirramim.github.io/open-source-radar/): issues abiertos etiquetados para principiantes, ya filtrados para excluir aquellos que tienen una persona asignada o un pull request abierto vinculado.
 * **El propio gestor de issues del proyecto**, filtrado por sus etiquetas para principiantes.
 * **La búsqueda de GitHub**, por ejemplo:
 

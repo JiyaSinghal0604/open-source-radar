@@ -2,7 +2,9 @@
 
 Cada proyecto tiene reglas para las contribuciones. Algunas son simplemente convenciones; otras determinan si tu pull request puede fusionarse o incluso si se cerrará automáticamente. Compruébalas **antes** de escribir código.
 
-El [índice de issues](../issues/README.md) muestra indicaciones detectadas automáticamente para cada proyecto. Son solo indicaciones, no garantías: lee siempre los archivos del propio proyecto.
+[English version](../06-rules-before-you-start.md)
+
+El [índice de issues](../../issues/README.md) muestra indicaciones detectadas automáticamente para cada proyecto. Son solo indicaciones, no garantías: lee siempre los archivos del propio proyecto.
 
 | Nota en el índice  | Significado                                                                                                                   |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -89,4 +91,4 @@ Algunos proyectos te piden incluir una declaración en tu pull request, por ejem
 * [ ] Revisé `.github/workflows/` para detectar automatizaciones que podrían cerrar mi PR.
 * [ ] Si la IA me ayudó, sé si debo declararlo y cómo hacerlo.
 
-Siguiente: [Cómo comunicarte con los mantenedores](07-communication.md)
+Siguiente: [Cómo comunicarte con los mantenedores](../07-communication.md) (en inglés)

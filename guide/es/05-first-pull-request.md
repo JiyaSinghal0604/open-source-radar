@@ -2,6 +2,8 @@
 
 Este es el flujo de trabajo completo, desde hacer fork hasta abrir un pull request. Reemplaza `OWNER/REPO` con el proyecto y `your-username` con tu nombre de usuario de GitHub.
 
+[English version](../05-first-pull-request.md)
+
 ## 1. Haz fork y clona el repositorio
 
 Un **fork** es tu propia copia del repositorio en GitHub. Haces push a tu fork y luego pides al proyecto original (llamado **upstream**) que incorpore tus cambios.
@@ -37,7 +39,7 @@ Nombra las ramas según el cambio, como `fix-empty-username` o `docs-install-win
 
 ## 3. Compílalo y ejecuta las pruebas antes de cambiar nada
 
-Sigue el `CONTRIBUTING.md` o `DEVELOPMENT.md` del proyecto. Las [guías rápidas por lenguaje](../languages/README.md) muestran los comandos habituales. Ejecuta primero las pruebas con el código sin modificar:
+Sigue el `CONTRIBUTING.md` o `DEVELOPMENT.md` del proyecto. Las [guías rápidas por lenguaje](../../languages/README.md) muestran los comandos habituales. Ejecuta primero las pruebas con el código sin modificar:
 
 * Si pasan, tienes una línea base funcional.
 * Si algunas ya fallan, anota cuáles. Esos fallos no son tuyos y deberías mencionarlos en tu PR si son relevantes.
